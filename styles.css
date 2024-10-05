@@ -139,7 +139,7 @@ button:hover:before {
     }
     .contact-info {
         position: absolute;
-        bottom:0px;
+        bottom:0;
        left: 0;
         color: #fff;
         font-size: 14px;
